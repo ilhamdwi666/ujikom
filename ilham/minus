@@ -1,0 +1,8 @@
+else {
+echo'
+<script>
+    alert("stock saat ini tidak mencukupi");
+    window.location.href="detail_pembelian.php"
+</script>
+';
+}
